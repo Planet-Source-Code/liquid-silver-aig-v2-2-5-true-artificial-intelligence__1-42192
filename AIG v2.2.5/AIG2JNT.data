@@ -1,0 +1,28 @@
+HI_GOOD1|FINE|>|That sounds good!|
+HI_GOOD2|FINE |*|>|That sounds good!|
+HI_GOOD3|OK|>|That sounds good!|
+HI_GOOD4|OK |*|>|That sounds good!|
+HI_GOOD5|GOOD|>|That sounds good!|
+HI_GOOD6|GOOD |*|>|That sounds good!|
+HI_GOOD7|GREAT|>|That sounds great!|
+HI_GOOD8|GREAT |*|>|That sounds great!|
+HI_GOOD7|SUPERB|>|That sounds great!|
+HI_GOOD8|SUPERB |*|>|That sounds great!|
+HI_BAD1|NOT |*|>|That's too bad, I hope you feel better later.|
+HI_BAD2|BAD|>|That's too bad, I hope you feel better later.|
+HI_BAD3|BAD |*|>|That's too bad, I hope you feel better later.|
+HI_GOOD9|I AM FINE|>|That sounds good!|
+HI_GOOD10|I AM FINE |*|>|That sounds good!|
+HI_GOOD11|I AM OK|>|That sounds good!|
+HI_GOOD12|I AM OK |*|>|That sounds good!|
+HI_GOOD13|I AM GOOD|>|That sounds good!|
+HI_GOOD14|I AM GOOD |*|>|That sounds good!|
+HI_GOOD15|I AM GREAT|>|That sounds great!|
+HI_GOOD16|I AM GREAT |*|>|That sounds great!|
+HI_GOOD17|I AM SUPERB|>|That sounds great!|
+HI_GOOD18|I AM SUPERB |*|>|That sounds great!|
+HI_BAD4|I AM NOT |*|>|That's too bad, I hope you feel better later.|
+HI_BAD5|I AM BAD|>|That's too bad, I hope you feel better later.|
+HI_BAD6|I AM BAD |*|>|That's too bad, I hope you feel better later.|
+HI_UNK6|*|>|You still haven't answered me, how are you?|>|HI_GOOD1,HI_GOOD2,HI_GOOD3,HI_GOOD4,HI_GOOD5,HI_GOOD6,HI_GOOD7,HI_GOOD8,HI_GOOD9,HI_GOOD10,HI_GOOD11,HI_GOOD12,HI_GOOD13,HI_GOOD14,HI_GOOD15,HI_GOOD16,HI_GOOD17,HI_GOOD18,HI_BAD1,HI_BAD2,HI_BAD3,HI_BAD4,HI_BAD5,HI_BAD6,HI_UNK1|
+ASK_OK1|OK|>|Well then say something|
